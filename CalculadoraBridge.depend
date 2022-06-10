@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1654817979 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\main.cpp
+	"CalculadoraBasica.h"
+	"InterfazOscura.h"
+	"InterfazClara.h"
+	"InterfazContraste.h"
+
+1654816372 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\src\calculadora.cpp
+	"Calculadora.h"
+
+1654818782 c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\include\calculadora.h
+	"InterfazCalculadora.h"
+
+1654816326 c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\include\interfazcalculadora.h
+	<bits/stdc++.h>
+	<sstream>
+
+1654818766 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\src\calculadoraavanzada.cpp
+	"CalculadoraAvanzada.h"
+
+1654818766 c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\include\calculadoraavanzada.h
+	"Calculadora.h"
+
+1654818111 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\src\calculadorabasica.cpp
+	"CalculadoraBasica.h"
+
+1654817669 c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\include\calculadorabasica.h
+	"Calculadora.h"
+
+1654814486 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\src\interfazcalculadora.cpp
+	"InterfazCalculadora.h"
+
+1654818795 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\src\interfazclara.cpp
+	"InterfazClara.h"
+
+1654816059 c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\include\interfazclara.h
+	"InterfazCalculadora.h"
+
+1654818795 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\src\interfazcontraste.cpp
+	"InterfazContraste.h"
+
+1654818025 c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\include\interfazcontraste.h
+	"InterfazCalculadora.h"
+
+1654818795 source:c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\src\interfazoscura.cpp
+	"InterfazOscura.h"
+
+1654816059 c:\users\xpc\onedrive\universidad nacional de costa rica\i ciclo 2022\programación ii\calculadorabridge\include\interfazoscura.h
+	"InterfazCalculadora.h"
+
